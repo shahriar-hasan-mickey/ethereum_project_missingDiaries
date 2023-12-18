@@ -1,7 +1,7 @@
 
 
 Missing diaries is a **DApp** which keeps the record of missing people around us. The application is composed of the following features:
-Features: 
+
   * **Missing Person:** The DApp store data of missing persons. Specifically, it stores
     a person's name, age, height, status(either “missing” or “found”),
     small description, division from where the person got missing and a relative’s
